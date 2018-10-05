@@ -1,0 +1,32 @@
+h1{
+	font-weight: bold;
+    position: top;
+}
+.box{
+	background-color: blue;
+	border:2px solid rgb(79,185,227);
+	padding: 10px;
+	border-radius: 5px;
+	left: 30px;
+}
+.box1{
+	background-color: yellow;
+	border:2px solid rgb(79,185,227);
+	padding: 10px;
+	border-radius: 5px;
+	position: relative;
+	top: 30px;
+	height: 5000px;
+}
+.box2{
+	background-color: red;
+	border: 2px black;
+	padding: 10px;
+	border-radius: 5px;
+	position: fixed;
+	top: 100px;
+	left: 300px;
+}
+span{
+	background: green;
+}
